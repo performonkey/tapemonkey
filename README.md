@@ -1,11 +1,12 @@
 # tapemonkey
-## a pastebin client
 
-based pyQT4&requests
+#####a pastebin client
 
-send clipboard content to pastebin server then copy url to clipboard
+>based pyQT4&requests
 
-text send to http://paste.kde.org
-image send to http://wstaw.org/ 
+>send clipboard content to pastebin server then copy url to clipboard
 
-lightweight WM need install xclip
+>text send to http://paste.kde.org
+
+>image send to http://wstaw.org/ 
+>lightweight WM need install xclip
